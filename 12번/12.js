@@ -5,7 +5,7 @@ const 투두 = {
 };
 
 // 여기에 코드를 작성해주세요.
-const newTodo = {...투두, 완료여부: false,}
+const newTodo = {...투두, 완료여부: true,}
 
 console.log(투두)
 console.log(newTodo);
